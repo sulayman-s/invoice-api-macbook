@@ -1,1 +1,3 @@
 .env
+.spyproject
+.DS_Store
